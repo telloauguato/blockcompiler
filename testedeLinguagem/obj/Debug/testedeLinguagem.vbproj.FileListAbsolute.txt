@@ -1,0 +1,12 @@
+c:\users\pc\documents\visual studio 2015\Projects\testedeLinguagem\testedeLinguagem\obj\Debug\testedeLinguagem.vbproj.GenerateResource.Cache
+C:\Users\PC\documents\visual studio 2015\Projects\testedeLinguagem\testedeLinguagem\bin\Debug\block_compiler.exe.config
+C:\Users\PC\documents\visual studio 2015\Projects\testedeLinguagem\testedeLinguagem\bin\Debug\block_compiler.exe
+C:\Users\PC\documents\visual studio 2015\Projects\testedeLinguagem\testedeLinguagem\bin\Debug\block_compiler.pdb
+C:\Users\PC\documents\visual studio 2015\Projects\testedeLinguagem\testedeLinguagem\bin\Debug\block_compiler.xml
+C:\Users\PC\documents\visual studio 2015\Projects\testedeLinguagem\testedeLinguagem\obj\Debug\block_compiler.Form1.resources
+C:\Users\PC\documents\visual studio 2015\Projects\testedeLinguagem\testedeLinguagem\obj\Debug\block_compiler.Form2.resources
+C:\Users\PC\documents\visual studio 2015\Projects\testedeLinguagem\testedeLinguagem\obj\Debug\block_compiler.Resources.resources
+C:\Users\PC\documents\visual studio 2015\Projects\testedeLinguagem\testedeLinguagem\obj\Debug\block_compiler.exe
+C:\Users\PC\documents\visual studio 2015\Projects\testedeLinguagem\testedeLinguagem\obj\Debug\block_compiler.xml
+C:\Users\PC\documents\visual studio 2015\Projects\testedeLinguagem\testedeLinguagem\obj\Debug\block_compiler.pdb
+C:\Users\PC\documents\visual studio 2015\Projects\testedeLinguagem\testedeLinguagem\obj\Debug\testedeLinguagem.vbprojResolveAssemblyReference.cache

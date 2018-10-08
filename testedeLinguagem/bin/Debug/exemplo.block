@@ -1,0 +1,18 @@
+set $name Maia
+set $age 12
+set $number 999999999
+set $logo logo@dotpng
+set $text Image_Exempl
+
+theme 
+
+object mostrar <p>Meu nome é {0} e tenho {1} anos, meu numero é {2}</p>
+object a <a href='{1}'>{0}</a>
+object img isso chama a imagem {0} com o link {1} O resultado no codigo: &lt;img src='{1}' alt='{0}'/&gt;
+
+
+viewer index {
+	responsive
+	show $logo
+	call img n1 n2
+}
