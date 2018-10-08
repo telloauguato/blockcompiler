@@ -10,3 +10,7 @@ C:\Users\PC\documents\visual studio 2015\Projects\testedeLinguagem\testedeLingua
 C:\Users\PC\documents\visual studio 2015\Projects\testedeLinguagem\testedeLinguagem\obj\Debug\block_compiler.xml
 C:\Users\PC\documents\visual studio 2015\Projects\testedeLinguagem\testedeLinguagem\obj\Debug\block_compiler.pdb
 C:\Users\PC\documents\visual studio 2015\Projects\testedeLinguagem\testedeLinguagem\obj\Debug\testedeLinguagem.vbprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\blockcompiler\testedeLinguagem\bin\Debug\block_compiler.exe.config
+C:\Users\PC\Documents\GitHub\blockcompiler\testedeLinguagem\obj\Debug\block_compiler.exe
+C:\Users\PC\Documents\GitHub\blockcompiler\testedeLinguagem\obj\Debug\block_compiler.xml
+C:\Users\PC\Documents\GitHub\blockcompiler\testedeLinguagem\obj\Debug\block_compiler.pdb
